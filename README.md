@@ -1,2 +1,2 @@
-# planit
+# PlanIt
 Flexible flow scheduler
